@@ -1,7 +1,6 @@
 # FiveM QBCore Elevator Script (ox_lib)
 
-![Elevator Preview](https://hizliresim.com/rsxxmml)
-![Asansör Önizleme](https://hizliresim.com/rsxxmml)
+![Elevator Preview]([https://hizliresim.com/rsxxmml](https://imgur.com/a/mWhUdmc))
 
 ## 📌 Features / Özellikler
 ✅ Supports multiple floors (Birden fazla kat desteği)  
