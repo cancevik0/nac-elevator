@@ -1,6 +1,6 @@
 # FiveM QBCore Elevator Script (ox_lib)
 
-![Elevator Preview](https://i.imgur.com/z5BdQJs.png)
+![Elevator Preview](https://i.imgur.com/7Amk50S.png)
 
 ## 📌 Features / Özellikler
 ✅ Supports multiple floors (Birden fazla kat desteği)  
